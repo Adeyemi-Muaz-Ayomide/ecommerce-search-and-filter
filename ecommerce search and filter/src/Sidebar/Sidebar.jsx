@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import Category from "./Category/Category";
 import Price from "./Price/Price";
-import Colors from "./Colors/Colors";
+import Colors from "./Colors/Color";
 import "./Sidebar.css";
 
 const Sidebar = ({ handleChange }) => {

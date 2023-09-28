@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "./Colors.css";
+import "./Color.css";
 import Input from "../../components/Input";
 
 const Colors = ({ handleChange }) => {
